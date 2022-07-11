@@ -1,0 +1,7 @@
+export const bookConstants = {
+    GET_BOOK_BANNER: 'GET_BOOK_BANNER',
+    GET_BOOK_RECOMMEND: 'GET_BOOK_RECOMMEND',
+    GET_BOOK_POPULAR: 'GET_BOOK_POPULAR',
+}
+
+

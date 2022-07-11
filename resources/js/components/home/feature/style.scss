@@ -1,0 +1,19 @@
+.wrapper{
+    .book-items{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-link{
+        width: 20%;
+    }
+    .product-home-list{
+        border: #cccccc solid 1px;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+    }
+    .book-items{
+    }
+}

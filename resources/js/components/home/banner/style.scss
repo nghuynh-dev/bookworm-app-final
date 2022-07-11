@@ -1,0 +1,44 @@
+.banner{
+    .banner_title{
+        display: flex;
+        justify-content: space-between;
+        h4{
+            font-weight: bold;
+        }
+        i{
+            margin-left: 4px;
+        }
+        h4{
+            margin: 0;
+            font-weight: normal;
+        }
+    }
+    .carousel-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-link{
+        width: 20%;
+    }
+    .btn-carousel{
+        width: 10%;
+        font-size: 100px;
+        display: flex;
+        justify-content: center;
+        color: #cccccc;
+        cursor: pointer;
+    }
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon{
+        color:black;
+    }
+    .wrap-card{
+        border: #cccccc solid 1px;
+        padding: 24px;
+     }
+    .carousel{
+        padding: 0;
+    }
+}
+
